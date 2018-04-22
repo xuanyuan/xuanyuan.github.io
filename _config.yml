@@ -94,8 +94,8 @@ gitment:
     owner: xuanyuan
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 14a566ac9c9c3517091a
+        client_secret: 7213024429be64a23f832d5631ebbda062baae72
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: xuanyuan
