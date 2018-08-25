@@ -2,8 +2,8 @@
 layout: post
 title: 原型链简析
 categories: [Blog, Todo]
-description: some word here
-keywords: keyword1, keyword2
+description: simple introduction of javascript prototype 
+keywords: prototype, link
 ---
 ## 对象的产生 ##
 JS中一切皆对象，本人也不同意这种说法，应该是除了undefined和null，详见[知乎](https://www.zhihu.com/question/264157543/answer/277450960),[博客园](http://www.cnblogs.com/myvin/p/4660138.html)
