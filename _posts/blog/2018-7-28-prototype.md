@@ -1,7 +1,7 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
+title: 原型链简析
+categories: [Blog, Todo]
 description: some word here
 keywords: keyword1, keyword2
 ---
