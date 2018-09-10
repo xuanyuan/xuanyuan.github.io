@@ -1,3 +1,11 @@
+---
+layout: post
+title: JavaScript中的类型判断
+categories: [Blog]
+description: JavaScript中数据类型判断 
+keywords: Data Type, JavaScript
+---
+
 JavaScript类型
 
 基本数据类型有这五种: Undefined、Null、String、Number、Boolean。凑齐五个召唤神龙

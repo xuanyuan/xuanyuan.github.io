@@ -5,11 +5,15 @@ categories: [Blog, Todo]
 description: simple introduction of javascript prototype 
 keywords: prototype, link
 ---
+
+JavaScript对于原型的神秘感由来已久，本文尝试揭开其冰山一角，帮助读者不再惧怕涉及到原型相关的内容
+
 ## 对象的产生 ##
 JS中一切皆对象，本人也不同意这种说法，应该是除了undefined和null，详见[知乎](https://www.zhihu.com/question/264157543/answer/277450960),[博客园](http://www.cnblogs.com/myvin/p/4660138.html)
 JS中变量的声明有两种方式：**字面量**和**new表达式**
 对象通过字面量的方式进行声明，本质上还是通过new关键字来实现
 那么new关键字是在使用时，到底为我们做了哪些功能，请继续阅读下一节
+
 ## new的内部机制 ##
 我们这里利用伪代码形式来模拟
 [引用](https://blog.csdn.net/gongzhuxiaoxin/article/details/52625842)
